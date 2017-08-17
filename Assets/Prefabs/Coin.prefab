@@ -36,7 +36,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1530508966430284}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.99, y: 1.97, z: 0}
+  m_LocalPosition: {x: 7.59, y: -5.17, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -68,6 +68,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42d107d9a2113a746aa8df9d239fcd78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gems: {fileID: 0}
+  HasBeenCollected: 0
 --- !u!212 &212461154775549550
 SpriteRenderer:
   m_ObjectHideFlags: 1
